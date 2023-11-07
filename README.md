@@ -22,6 +22,7 @@ How to Run
 To run the "Rat in a Maze" project:
 
     Clone the repository.
+    Make sure you have colorama module installed.
     Navigate to the 'RatInAMaze' file.
     Run the main Python file using your preferred Python interpreter.
 
@@ -44,6 +45,7 @@ How to Run
 To play the "Terminal Typing Master Game":
 
     Clone the repository.
+    Make sure you have keyboard module installed.
     Navigate to the 'TerminalTypingMasterGame' file.
     Run the main Python file using your preferred Python interpreter.
 
